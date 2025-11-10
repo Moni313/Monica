@@ -15,6 +15,13 @@ a,
   padding: 3px;
 }
 
+.purple {
+  text-decoration: none;
+  color: rgb(81, 53, 205);
+  transition: 0.4s;
+  padding: 3px;
+}
+
 @media (hover: hover) {
   a:hover {
     background-color: hsla(160, 100%, 37%, 0.2);

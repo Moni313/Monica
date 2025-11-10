@@ -29,6 +29,8 @@ header {
 .logo {
   display: block;
   margin: 0 auto 2rem;
+  border: groove rgb(114, 6, 163), 5px;
+  padding: 2px
 }
 
 nav {
