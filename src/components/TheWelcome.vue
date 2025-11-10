@@ -38,11 +38,11 @@ Building on this, I designed two surveys to investigate how clinicians prefer pr
     </template>
     <template #heading>Ecosystem</template>
     I feel very fortunate to be supervised by excellent people.
-<a href="" target="_blank" rel="noopener">Dr. Anton van der Vegt</a> is my principal supervisor, supporting me on the AI side of the project (although I am not developing AI models; my focus is on visualising their outputs).
-<br /><a href="" target="_blank" rel="noopener">Prof. Maxime Cordeil</a> guides me on the visual and design aspects of the project, and <a href="" target="_blank" rel="noopener">Prof. Ian A. Scott</a> contributes extensive medical knowledge.<br />
-Although <a href="" target="_blank" rel="noopener">Victoria Cambpell</a> is not part of my advisory team, she provides valuable insights and partnerships for this PhD.<br />
+<a href="https://about.uq.edu.au/experts/27971" target="_blank" rel="noopener">Dr. Anton van der Vegt</a> is my principal supervisor, supporting me on the AI side of the project (although I am not developing AI models; my focus is on visualising their outputs).
+<br /><a href="https://about.uq.edu.au/experts/33792" target="_blank" rel="noopener">Prof. Maxime Cordeil</a> guides me on the visual and design aspects of the project, and <a href="https://about.uq.edu.au/experts/6954" target="_blank" rel="noopener">Prof. Ian A. Scott</a> contributes extensive medical knowledge.<br />
+Although <a href="https://www.researchgate.net/scientific-contributions/Victoria-Campbell-2175852354" target="_blank" rel="noopener">Victoria Cambpell</a> is not part of my advisory team, she provides valuable insights and partnerships for this PhD.<br />
 
-I also collaborated with <a href="" target="_blank" rel="noopener">Dr Audrey P. Wang</a> and <a href="" target="_blank" rel="noopener">Prof Amith Shetty</a> on the systematic literature review.<br />
+I also collaborated with <a href="https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/audrey.wang1.html" target="_blank" rel="noopener">Dr Audrey P. Wang</a> and <a href="https://www.hospitalmanagementasia.com/speakers/amith-shetty/" target="_blank" rel="noopener">Prof Amith Shetty</a> on the systematic literature review.<br />
 
   </WelcomeItem>
 
