@@ -11,9 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="purple">Monica Noselli</h1>
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      My research focuses on how to present multiple AI-based predictions in clinical decision support systems to support clinicians in managing patient deterioration. 
     </h3>
   </div>
 </template>

@@ -1,6 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="">
+    <h1>About me</h1>
+    <p>Hi! I’m a PhD researcher passionate about human–computer interaction (HCI) and data visualization, with a focus on how these fields can improve healthcare systems. My current work explores how AI-driven outputs can be presented to clinicians within clinical decision support systems (CDSS) to help them make informed decisions.
+I love working side-by-side with clinicians—learning from their expertise and co-designing tools that can genuinely support daily clinical practice.</p><br /><p>
+
+My interest in healthcare goes back to my undergraduate years in Udine, Italy, where I created a web app to help cancer patients report treatment-related toxicity after chemotherapy. During my master’s studies in Switzerland, I developed a system to retrieve evidence-based suggestions for specific disorders using PubMed literature. Later, in the UK, I contributed to a research project investigating data-quality challenges in a large children’s cohort from the Born in Bradford study. Today, in Brisbane, I continue this journey by focusing on AI+HCI for clinical decision support.</p><br /><p>
+
+I’m originally from Italy and moved to Australia for the sunshine—though I still miss Italian food and history every day. I enjoy Shaman King, country music, and travelling wherever curiosity leads me. My favourite city is Barcelona for its unique beauty, though I’ll always treasure hiking the Alps, exploring historical sites, and getting lost in charming old Italian villages.</p><br /><p>
+
+Thanks for stopping by—I hope our paths cross!</p>
   </div>
 </template>
 

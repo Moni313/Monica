@@ -14,38 +14,22 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
     <template #icon>
       <DocumentationIcon />
     </template>
-    <template #heading>Documentation</template>
+    <template #heading>Research</template>
 
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
+    My current PhD work involves designing a workshop on the Miro platform to understand clinicians’ preferences for the content, visualization styles, interactions, and layout of clinical decision support systems (CDSS). Informed by prior studies, I present prototype concepts that clinicians review and improve through collaborative discussion.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>Tooling</template>
+    <template #heading>Previous studies</template>
 
-    This project is served and bundled with
-    <a href="https://vite.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a>
-    +
-    <a href="https://github.com/vuejs/language-tools" target="_blank" rel="noopener"
-      >Vue - Official</a
-    >. If you need to test your components and web pages, check out
-    <a href="https://vitest.dev/" target="_blank" rel="noopener">Vitest</a>
-    and
-    <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a>
-    /
-    <a href="https://playwright.dev/" target="_blank" rel="noopener">Playwright</a>.
+    The first stage of my PhD involved a systematic literature review to understand how clinical decision support (CDS) systems present AI predictions to clinicians. We found substantial variation in presentation methods, influenced by both the numerical outputs and how systems are integrated into clinical workflows, roles, and care teams.<br />
 
-    <br />
+Believing in the importance of co-design, I conducted 22 interviews with Australian clinicians to explore their experiences with current patient deterioration tools and gather ideas for a system presenting multiple concurrent AI predictions. Preferences varied by role, setting, institution, and location.<br />
 
-    More instructions are available in
-    <a href="javascript:void(0)" @click="openReadmeInEditor"><code>README.md</code></a
-    >.
+Building on this, I designed two surveys to investigate how clinicians prefer predictions to be stratified (e.g., severity levels or trends) and which explainability tools they would use. This study is not yet published; please contact me for more details.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -53,15 +37,13 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
       <EcosystemIcon />
     </template>
     <template #heading>Ecosystem</template>
+    I feel very fortunate to be supervised by excellent people.
+<a href="" target="_blank" rel="noopener">Dr. Anton van der Vegt</a> is my principal supervisor, supporting me on the AI side of the project (although I am not developing AI models; my focus is on visualising their outputs).
+<br /><a href="" target="_blank" rel="noopener">Prof. Maxime Cordeil</a> guides me on the visual and design aspects of the project, and <a href="" target="_blank" rel="noopener">Prof. Ian A. Scott</a> contributes extensive medical knowledge.<br />
+Although <a href="" target="_blank" rel="noopener">Victoria Cambpell</a> is not part of my advisory team, she provides valuable insights and partnerships for this PhD.<br />
 
-    Get official tools and libraries for your project:
-    <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
-    <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
-    <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
-    <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
-    <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
+I also collaborated with <a href="" target="_blank" rel="noopener">Dr Audrey P. Wang</a> and <a href="" target="_blank" rel="noopener">Prof Amith Shetty</a> on the systematic literature review.<br />
+
   </WelcomeItem>
 
   <WelcomeItem>
@@ -70,26 +52,14 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
     </template>
     <template #heading>Community</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>
-    (our official Discord server), or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also follow the official
-    <a href="https://bsky.app/profile/vuejs.org" target="_blank" rel="noopener">@vuejs.org</a>
-    Bluesky account or the
-    <a href="https://x.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    X account for latest news in the Vue world.
+    I am part of the Queensland Digital Health Centre (QDHeC) and funded by the University of Queensland Scholarship through the UQ–QH HDR Alliance Program.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
-
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    <template #heading>Publications</template>
+    <a href="" target="_blank" rel="noopener">List of publications</a>.
   </WelcomeItem>
 </template>
