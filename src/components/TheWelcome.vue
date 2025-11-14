@@ -52,7 +52,8 @@ I also collaborated with <a href="https://www.sydney.edu.au/medicine-health/abou
     </template>
     <template #heading>Community</template>
 
-    I am part of the Queensland Digital Health Centre (QDHeC) and funded by the University of Queensland Scholarship through the UQ–QH HDR Alliance Program.
+    I am part of the <a ref="https://chsr.centre.uq.edu.au/research/queensland-digital-health-centre" target="_blank" rel="noopener"><b>Queensland Digital Health Centre (QDHeC)</b></a>. My PhD is funded by the University of Queensland Scholarship through the <a href="https://about.uq.edu.au/experts/project/51838" target="_blank" rel="noopener"><b>UQ–QH HDR Alliance Program.</b></a><br />
+    I am engaged with the <b>Queensland Sepsis Algorithm (QSA)</b> and the <b>Augmented Intelligence Keeping you Safer (AI-KEYS)</b> groups.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -63,3 +64,9 @@ I also collaborated with <a href="https://www.sydney.edu.au/medicine-health/abou
     <a href="" target="_blank" rel="noopener">List of publications</a>.
   </WelcomeItem>
 </template>
+
+<style scoped>
+b {
+  font-weight: bold;
+}
+</style>
