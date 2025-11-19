@@ -60,8 +60,8 @@ I also collaborated with <a href="https://www.sydney.edu.au/medicine-health/abou
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Publications</template>
-    <a href="" target="_blank" rel="noopener">List of publications</a>.
+    <template #heading><a href="https://scholar.google.com/citations?user=p_FdT_YAAAAJ&hl=en" target="_blank" rel="noopener">List of publications</a></template>
+    
   </WelcomeItem>
 </template>
 

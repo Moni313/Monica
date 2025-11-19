@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <h1>Documents</h1>
+    <h1>Documents {Coming soon}</h1>
         Curriculum Vitae<br />
         Ielts<br />
         Master<br />
